@@ -9,6 +9,7 @@ public class Input {
 			String enter = sc.nextLine();
 
 			return enter;
+
 			
 		}
 }
